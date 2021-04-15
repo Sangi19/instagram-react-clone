@@ -183,7 +183,6 @@ function App() {
       )}
       </div>
       
-      <h1>Hello :) Its Instagram clone app with React</h1>
 
     <div className= "app__posts">
       <div className= "app__postsLeft">

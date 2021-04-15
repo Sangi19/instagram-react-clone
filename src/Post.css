@@ -12,7 +12,7 @@
 }
 .post__text {
     font-weight: normal;
-    padding: 20px; 
+    padding: 10px; 
 }
 .post__header {
     display:flex;
@@ -24,9 +24,14 @@
     margin-right: 10px;
 }
 
+.post__comments {
+    font-weight: normal;
+    padding: 10px; 
+}
+
 .post__commentBox {
     display: flex;
-    margin-top: 10px;
+    margin-top: 1px;
 }
 
 .post__input {
