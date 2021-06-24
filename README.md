@@ -77,7 +77,7 @@ To clone the repository, navigate to it's containing directory, and run:
 
 - download the Nodejs from the following link (https://nodejs.org/en/)
 
-To download the latest version of npm, on the command line, run the following command:
+To download the latest version of npm, on the VS Code, run the following command:
 
 - npm install -g npm
 
@@ -86,17 +86,17 @@ To download the latest version of npm, on the command line, run the following co
 
 ## How It Works
 
-![review_articles_home](https://user-images.githubusercontent.com/5237154/85111136-8b64c480-b231-11ea-929c-34d0ae9e04b8.png)
+![Instagram-Login page](https://github.com/sangeetha-ram/instagram-react-clone/blob/main/Images/Capture-%20login%20page.JPG)
 
-![review_home](https://user-images.githubusercontent.com/5237154/85111402-e991a780-b231-11ea-9ef0-bcf16b92f664.png)
+![Instagram- Post with comments](https://user-images.githubusercontent.com/5237154/85111402-e991a780-b231-11ea-9ef0-bcf16b92f664.png)
 
-![user_profile_page](https://user-images.githubusercontent.com/5237154/85111591-2cec1600-b232-11ea-9f56-f108ebab7e77.png)
+![Instagram- Image Upload part](https://user-images.githubusercontent.com/5237154/85111591-2cec1600-b232-11ea-9f56-f108ebab7e77.png)
 
 ## Built by
 
 👤 **Sangeetha Ramkumar**
 
-- [LinkedIn](https://www.linkedin.com/in/karthickvenkadesan/)
+- [LinkedIn](https://www.linkedin.com/in/sangi-ammu-33a4041ab/)
 - [GitHub](https://github.com/sangeetha-ram/)
 - [E-mail](sangiammu1020@gmail.com)
 
