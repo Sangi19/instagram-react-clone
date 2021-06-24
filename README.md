@@ -85,11 +85,13 @@ To download the latest version of npm, on the VS Code, run the following command
 <!-- HOW IT WORKS -->
 
 ## How It Works
-
+ Instagram-Login page
 ![Instagram-Login page](https://github.com/sangeetha-ram/instagram-react-clone/blob/main/Images/Capture-%20login%20page.JPG)
 
+Instagram- Post with comments
 ![Instagram- Post with comments](https://github.com/sangeetha-ram/instagram-react-clone/blob/main/Images/Capture-%20post%20with%20comments.JPG)
 
+Instagram- Image Upload part
 ![Instagram- Image Upload part](https://github.com/sangeetha-ram/instagram-react-clone/blob/main/Images/Capture-Upload%20images.JPG)
 
 ## Built by
