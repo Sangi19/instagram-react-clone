@@ -54,7 +54,7 @@ The Social Media app "Instagram" Project is Backed by Firebase handles the backg
 - [Instagram clone Link](https://instagram-clone2-39923.web.app/)
   - test user credentials ( eamil: testuser1@gmail.com pass: testuser1 )
 
-![Instagram](https://user-images.githubusercontent.com/5237154/85111136-8b64c480-b231-11ea-929c-34d0ae9e04b8.png)
+![Instagram](https://github.com/sangeetha-ram/instagram-react-clone/blob/main/Images/Capture-signup.PNG)
 
 <!-- BUILD WITH -->
 
