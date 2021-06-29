@@ -1,8 +1,4 @@
-<!-- [![Contributors][contributors-shield]][contributors-url] -->
 
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
 
 <!-- PROJECT LOGO -->
 <br />
@@ -50,9 +46,8 @@ The Social Media app "Instagram" Project is Backed by Firebase handles the backg
 
 ## Live Version
 
-
 - [Instagram clone Link](https://instagram-clone2-39923.web.app/)
-  - test user credentials ( eamil: testuser1@gmail.com pass: testuser1 )
+  - Test user credentials ( email: testuser1@gmail.com pass: testuser1 )
 
 ![Instagram](https://github.com/sangeetha-ram/instagram-react-clone/blob/main/Images/Capture-signup.PNG)
 
@@ -63,23 +58,42 @@ The Social Media app "Instagram" Project is Backed by Firebase handles the backg
 This project was built using these technologies.
 
 - JavaScript with React
-- firebase
-- user authentication
-- In VS code editor 
+- Firebase
+- User authentication
+- Visual Studio code editor 
 
-### Installation
-
-To clone the repository, navigate to it's containing directory, and run:
-
-#### Clone the repository and follow the steps to run the bot.
-
-## Node JS and npm Setup
+## Installation of Node JS and npm Setup:
 
 - download the Nodejs from the following link (https://nodejs.org/en/)
 
-To download the latest version of npm, on the VS Code, run the following command:
+To download the latest version of npm, in the Visual Studio Code Terminal, run the following command:
 
 - npm install -g npm
+
+## Clone the repository and follow the steps to run in the Visual Studio code editor:
+To create any React App:
+
+### Create React App  offers a modern build setup with no configuration.
+To Quick start in VS Code Terminal:
+> npx create-react-app my-app <br>
+> cd my-app<br>
+> npm start
+
+Then open http://localhost:3000/ to see the app.
+
+### NPX:
+> npx create-react-app my-app
+
+### NPM:
+> npm init react-app my-app
+
+### DEPLOY the app:
+When we're ready to deploy to production, we create a minified bundle with npm run build. It correctly bundles React in production mode and optimizes the build for the best performance.
+> npm run build:
+
+The app is ready to be deployed
+
+
 
 
 <!-- HOW IT WORKS -->
@@ -98,8 +112,8 @@ Instagram- Image Upload part
 
 👤 **Sangeetha Ramkumar**
 
-- [LinkedIn](https://www.linkedin.com/in/sangi-ammu-33a4041ab/)
-- [GitHub](https://github.com/sangeetha-ram/)
+- [LinkedIn](https://www.linkedin.com/in/sangeetharamkumar)
+- [GitHub](https://github.com/Sangi19)
 - [E-mail](sangiammu1020@gmail.com)
 
 <!-- ACKNOWLEDGEMENTS -->
@@ -108,17 +122,7 @@ Instagram- Image Upload part
 
 Give a ⭐️ if you like this project!
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github.com/karthi07/review-articles/issues.svg?style=flat-square
-[contributors-url]: https://github.com/karthi07/review-articles/issues/
-[forks-shield]: https://img.shields.io/github/forks/karthi07/review-articles.svg?style=flat-square
-[forks-url]: https://github.com/karthi07/review-articles/issues/network/members
-[stars-shield]: https://img.shields.io/github/stars/karthi07/review-articles.svg?style=flat-square
-[stars-url]: https://github.com/karthi07/review-articles/issues/stargazers
-[issues-shield]: https://img.shields.io/github/issues/karthi07/review-articles.svg?style=flat-square
-[issues-url]: https://github.com/karthi07/review-articles/issues
 
 ## 📝 License
 
